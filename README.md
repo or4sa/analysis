@@ -72,6 +72,6 @@ If we interrogate the data to understand the localised impace within each provin
 ```
 This is quite scary in that is suggests that almost 16% of people in the Eastern Cape don't have safe, drinkable water. We can see the difference between the two normalisations in the following chart.
 
-![Sample output](https://github.com/or4sa/analysis/master/examples/safe_unsafe_water.png)
+![Sample output](https://github.com/or4sa/analysis/blob/master/examples/safe_unsafe_water.png)
 
 Going through the example will also show you how to use `dplyr`, `reshape2`, `ggplot2` and theres one sneaky `magrittr` command hiding in there.
